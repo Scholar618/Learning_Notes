@@ -134,7 +134,7 @@ int main() {
 
 运行结果：
 
-![Screenshot](/home/sjc/图片/Screenshot.png)
+![Screenshot](https://github.com/Scholar618/Learning_Notes/blob/main/Screenshot.png)
 
 会发现没有After显示，这就是因为使用了exec函数，将后面的之前程序替换了，所以不会显示之后的运行结果。
 
@@ -258,7 +258,7 @@ int main() {
                  
 ```
 
-![image-20230619165043509](/home/sjc/.config/Typora/typora-user-images/image-20230619165043509.png)
+![image-20230619165043509](https://github.com/Scholar618/Learning_Notes/blob/main/image-20230619165043509.png)
 
 
 
