@@ -20,7 +20,7 @@
 
 ### 创建线程
 
-![image-20230619190513451](/home/sjc/图片/image-20230619190513451.png)
+![image-20230619190513451](https://github.com/Scholar618/Learning_Notes/blob/main/image_20230619190513451.png)
 
 成功时返回0，失败时返回错误码，看的不太懂？直接上例子
 
@@ -47,7 +47,7 @@ int main() {
 
 结果:
 
-![image-20230619192353463](/home/sjc/图片/image-20230619192353463.png)
+![image-20230619192353463](https://github.com/Scholar618/Learning_Notes/blob/main/image_20230619165043509.png)
 
 注意：主进程的退出，创建的线程也会退出，线程创建需要事件，如果主进程马上退出，那线程不能得到执行
 
